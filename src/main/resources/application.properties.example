@@ -1,10 +1,10 @@
 spring.application.name=buynowdotcom
 
-server.port = 9090
+server.port=9090
 
 spring.datasource.url=jdbc:mysql://localhost:3306/buynowdb
-spring.datasource.username = root
-spring.datasource.password = root
+spring.datasource.username=YOUR_USERNAME
+spring.datasource.password=YOUR_PASSWORD
 
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
